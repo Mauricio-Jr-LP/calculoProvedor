@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario
+{
+    margin: 60px;
+    border-radius: 30px;
+    box-shadow: 0 7px 25px rgb(53 117 232 / 80%);
+    padding: 30px;
+}
+
+.label
+{
+    font-size: 1.5rem;
+    color: #3575E8
+}
+
+.buttons
+{
+    margin-left: 6px;
+    margin-top: 8px;
+    background: #3575E8;
+    border-color: #3575E8;
+}
