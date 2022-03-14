@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Form, FormGroup, Label, Input, Button } from 'reactstrap';
 import { AnexoI, AnexoII, AnexoIII, AnexoIV, AnexoV } from './mock/anexos';
 import { Tabela } from './components/Tabela';
-
+ 
 export function App() {
   const [Rbt12, setRbt12] = useState('');
   const [Rbap, setRbap] = useState('');
